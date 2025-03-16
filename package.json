@@ -1,7 +1,7 @@
 {
   "name": "monorepo-demo",
   "version": "1.0.0",
-  "description": "基于pnpm的monorepo",
+  "description": "基于pnpm的monorepo  demo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
